@@ -10,7 +10,7 @@
     <?php
     $sk1 = 10;
     $sk2 = 5;
-    $suma = $sk1+$sk2
+    $suma = $sk1+$sk2;
     echo $suma;
 
     ?>
